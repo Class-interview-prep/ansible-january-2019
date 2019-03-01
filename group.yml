@@ -7,4 +7,13 @@
       group: 
         name: admin
         state: present
+
+    - name: Group admin2  
+      group: 
+        name: admin2
+        state: present
     
+    - name: Group admin3  
+      group: 
+        name: admin3
+        state: present
